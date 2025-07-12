@@ -12,9 +12,19 @@ let str3  = str1 + " " + str2
 // console.log("2" + 1 + 1);    // Output: 211
 
 
-console.log(+true);       // Output: 1
-console.log(+"");               // Output: 0
+// console.log(+true);       // Output: 1
+// console.log(+"");               // Output: 0
 
-let gameCounter = 100;
-console.log(++gameCounter); // Output: 101
-console.log(gameCounter++); // Output: 101
+// let gameCounter = 100;
+// console.log(++gameCounter); // Output: 101
+// console.log(gameCounter++); // Output: 101
+
+// let num1 = null;
+// let num2 = Number(num1);
+// console.log(num2); // Output: 0
+
+// let str = "adrika"
+// let num = Number(str);
+// console.log(num); // Output: NaN
+
+    
